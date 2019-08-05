@@ -41,6 +41,9 @@ public class RedisDemo {
 
     }
 
+    /**
+     * 连接池连接
+     */
     public static void testJedisPool(){
         //创建一连接池对象
         JedisPool jedisPool = new JedisPool("114.67.73.152",6379);

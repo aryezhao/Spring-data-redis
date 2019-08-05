@@ -1,0 +1,11 @@
+note：
+    redis-demo：
+        主要包含redis的相关内容
+        -demo：
+            -RedisDemo：单例连接和连接池连接的相关测试
+            -JedisPoolDemo：通过读取配置文件applicationContext.xml进行redis数据读取
+
+        -springdataredis
+            -SpringDataRedis：
+                配置文件：redis-config.properties、applicationContext-redis.xml
+                功能描述：进行redis的String、set、hash、list等增删改查信息操作

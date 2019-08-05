@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2610614d-bfea-4137-bba0-8bdced00b28a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/note.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-demo/src/main/java/com/usts/springdataredis/SpringDataRedisDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-demo/src/main/resources/applicationContext-redis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-demo/src/main/resources/config/redis-config.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_xsw_edu_edu_service_1_0_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis-demo/pom.xml" afterPath="$PROJECT_DIR$/redis-demo/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis-demo/redis-demo.iml" afterPath="$PROJECT_DIR$/redis-demo/redis-demo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redis-demo/src/main/java/com/usts/demo/RedisDemo.java" afterPath="$PROJECT_DIR$/redis-demo/src/main/java/com/usts/demo/RedisDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -716,8 +698,16 @@
       <option name="presentableId" value="Default" />
       <updated>1564987603770</updated>
       <workItem from="1564987605586" duration="5330000" />
-      <workItem from="1565000688666" duration="5351000" />
+      <workItem from="1565000688666" duration="5369000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringDataRedis通过redisTemplate进行redis的String、set、hash、list等增删改查信息操作">
+      <created>1565006057850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565006057850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -753,7 +743,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10681000" />
+    <option name="totallyTimeSpent" value="10699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -795,6 +785,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SpringDataRedis通过redisTemplate进行redis的String、set、hash、list等增删改查信息操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringDataRedis通过redisTemplate进行redis的String、set、hash、list等增删改查信息操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

@@ -9,3 +9,8 @@ note：
             -SpringDataRedis：
                 配置文件：redis-config.properties、applicationContext-redis.xml
                 功能描述：进行redis的String、set、hash、list等增删改查信息操作
+        -jedisCluster
+            -testJedisCluster：创建JedisCluster类连接redis集群。
+            -JedisPoolConfig：
+                配置文件：applicationContext-jediscluster.xml
+                功能描述：根据读取redis集群配置文件测试Jedis连接集群
